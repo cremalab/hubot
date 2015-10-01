@@ -1,4 +1,5 @@
 [
+  "hubot-slack-vote",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
