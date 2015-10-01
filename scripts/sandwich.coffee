@@ -13,7 +13,7 @@
 # Author:
 #   spoike
 
-client = require 'hubot-google-images'
+client = require 'google-images'
 
 sandwiches = ['sandwich']
 
