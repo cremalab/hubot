@@ -20,7 +20,8 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "hubot-slack-vote": "0.0.5"
+    "hubot-slack-vote": "0.0.5",
+    "hubot-has-no-idea":"1.2.0"
   },
   "engines": {
     "node": "0.10.x"
